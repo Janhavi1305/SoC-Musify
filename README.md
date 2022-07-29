@@ -20,8 +20,6 @@ STEP 3 : Open code.ipynb file using Visual Studio Code
 STEP 4 : Run all the cells one by one and check the output
 STEP 5 : Wait for the model training as it takes a long time depending on the dataset used and various other factors.
 STEP 6 : Run the last cell and a file named as AI_composed_musicfinal.mid will be saved
-STEP 7 : Play the file AI_composed_musicfinal.mid
-You have composed your own music by using AI.
-You can create a large no. of different music by tweaking the code a bit.
+
 
 
