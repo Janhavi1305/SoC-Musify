@@ -6,21 +6,28 @@ Musify : Music generation with A.I, the purpose of this project is to compose mu
 3. Libraries Used : Tensorflow, Music21, Keras, NumPy, Sklearn, tqdm
 4. Dataset : https://www.kaggle.com/datasets/soumikrakshit/classical-music-midi 
 # Structure of the project and important files
-MOD/ : This directory conatins optimizer, metrics, and weights of our trained model.
-Dataset used for the code/ : Dataset folder containing the midi files of different composers.
-Code.ipynb : This is the code for the project where we build, train, and test our model.
-AI_composed_musicfinal.mid : This is the music file
-SOC| Learning Project | Musify | Janhavi.docx : This is the report and the documentation of my project.
-SoC Presentation : This is a power point presentation which describes the idea , code and learning behind the project .
-MusifyVideo : The video which I have made for the project describing the project .
+1. MOD/ : This directory conatins optimizer, metrics, and weights of our trained model.
+2. Dataset used for the code/ : Dataset folder containing the midi files of different composers.
+3. Code.ipynb : This is the code for the project where we build, train, and test our model.
+4. AI_composed_musicfinal.mid : This is the music file
+5. SOC| Learning Project | Musify | Janhavi.docx : This is the report and the documentation of my project.
+6. SoC Presentation : This is a power point presentation which describes the idea , code and learning behind the project .
+7. MusifyVideo : The video which I have made for the project describing the project .
 # Steps for the code writing in VS Code
 STEP 1 : Download the files from the repository by clicking on Code button
+
 STEP 2 : Install Libraries using pip command (In Anaconda Prompt)
+
 STEP 3 : Open code.ipynb file using Visual Studio Code
+
 STEP 4 : Run all the cells one by one and check the output
+
 STEP 5 : Wait for the model training as it takes a long time depending on the dataset used and various other factors.
+
 STEP 6 : Run the last cell and a file named as AI_composed_musicfinal.mid will be saved
+
 STEP 7 : Play the file AI_composed_musicfinal.mid
+
 You have composed your own music by using AI.
 You can create a large no. of different music by tweaking the code a bit.
 
