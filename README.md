@@ -10,7 +10,7 @@ Musify : Music generation with A.I, the purpose of this project is to compose mu
 2. Dataset used for the code/ : Dataset folder containing the midi files of different composers.
 3. Code.ipynb : This is the code for the project where we build, train, and test our model.
 4. AI_composed_musicfinal.mid : This is the music file
-5. SOC| Learning Project | Musify | Janhavi.docx : This is the report and the documentation of my project.
+5. SoC_Musify_Learning_Janhavi.docx : This is the report and the documentation of my project.
 6. SoC Presentation : This is a power point presentation which describes the idea , code and learning behind the project .
 7. MusifyVideo : The video which I have made for the project describing the project .
 # Steps for the code writing in VS Code
